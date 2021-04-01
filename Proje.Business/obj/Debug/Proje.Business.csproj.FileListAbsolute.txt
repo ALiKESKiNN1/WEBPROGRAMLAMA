@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.pdb
