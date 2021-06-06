@@ -16,7 +16,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -40,8 +40,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-2.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -55,8 +55,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -72,8 +72,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -98,7 +98,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -122,8 +122,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -137,8 +137,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-2.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -154,8 +154,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -180,7 +180,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -204,8 +204,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-2.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -219,8 +219,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -236,8 +236,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -262,7 +262,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -286,8 +286,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -301,8 +301,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-2.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -318,8 +318,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -344,7 +344,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -368,8 +368,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-2.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -383,8 +383,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -400,8 +400,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim/img/hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -426,7 +426,7 @@
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
                                                     <span>08</span>
-                                                    <p>Aug</p>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -450,8 +450,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim/img/hero/hero-3.jpg" style="background-image: url(&quot;Tasarim//hero/hero-3.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>21</span>
+                                                    <p>MART</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -465,8 +465,8 @@
                                         <div class="hero__inside__item hero__inside__item--small set-bg" data-setbg="Tasarim//hero/hero-2.jpg" style="background-image: url(&quot;Tasarim//hero/hero-2.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>01</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">
@@ -482,8 +482,8 @@
                                         <div class="hero__inside__item set-bg" data-setbg="Tasarim/img/hero/hero-4.jpg" style="background-image: url(&quot;Tasarim//hero/hero-4.jpg&quot;);">
                                             <div class="hero__inside__item__text">
                                                 <div class="hero__inside__item--meta">
-                                                    <span>08</span>
-                                                    <p>Aug</p>
+                                                    <span>12</span>
+                                                    <p>NİSAN</p>
                                                 </div>
                                                 <div class="hero__inside__item--text">
                                                     <ul class="label">

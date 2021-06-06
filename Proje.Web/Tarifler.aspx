@@ -59,7 +59,6 @@
                                             <a href="#"><%# Eval("YemekTarifi") %>
                                             </a>
                                         </h3>
-                                        <a href="#" class="primary-btn">Devamını Oku</a>
                                         <div class="post__social">
                                             <span>Paylaş</span>
                                             <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i><span>82</span></a>
