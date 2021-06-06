@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="YemekOneriModelStoreContainer" CdmEntityContainer="YemekOneriEntities">
+    <EntitySetMapping Name="Kategori">
+      <EntityTypeMapping TypeName="YemekOneriModel.Kategori">
+        <MappingFragment StoreEntitySet="Kategori">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KategoriAdi" ColumnName="KategoriAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Oneri">
+      <EntityTypeMapping TypeName="YemekOneriModel.Oneri">
+        <MappingFragment StoreEntitySet="Oneri">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="YemekID" ColumnName="YemekID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yemek">
+      <EntityTypeMapping TypeName="YemekOneriModel.Yemek">
+        <MappingFragment StoreEntitySet="Yemek">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="YemekAdi" ColumnName="YemekAdi" />
+          <ScalarProperty Name="YemekTarifi" ColumnName="YemekTarifi" />
+          <ScalarProperty Name="Resim" ColumnName="Resim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

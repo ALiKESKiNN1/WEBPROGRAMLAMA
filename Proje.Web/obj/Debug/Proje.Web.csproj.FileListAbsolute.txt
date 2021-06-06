@@ -61,3 +61,9 @@ C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj
 C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj.CopyComplete
 C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.dll
 C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\obj\Debug\Proje.Web.pdb
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\EntityFramework.dll
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\Proje.Business.dll.config
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\Proje.DataAccess.dll.config
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\EntityFramework.xml
+C:\Users\lenovo\source\repos\WebProgramlama\Proje.Web\bin\EntityFramework.SqlServer.xml

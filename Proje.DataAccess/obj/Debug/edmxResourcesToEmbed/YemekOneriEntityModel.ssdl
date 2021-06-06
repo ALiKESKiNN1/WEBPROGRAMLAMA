@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YemekOneriModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Oneri">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YemekID" Type="int" />
+    <Property Name="Tarih" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Yemek">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriID" Type="int" />
+    <Property Name="YemekAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YemekTarifi" Type="nvarchar" MaxLength="500" />
+    <Property Name="Resim" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Oneri_Yemek">
+    <End Role="Yemek" Type="Self.Yemek" Multiplicity="0..1" />
+    <End Role="Oneri" Type="Self.Oneri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yemek">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Oneri">
+        <PropertyRef Name="YemekID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yemek_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="Yemek" Type="Self.Yemek" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Yemek">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="YemekOneriModelStoreContainer">
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oneri" EntityType="Self.Oneri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yemek" EntityType="Self.Yemek" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Oneri_Yemek" Association="Self.FK_Oneri_Yemek">
+      <End Role="Yemek" EntitySet="Yemek" />
+      <End Role="Oneri" EntitySet="Oneri" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yemek_Kategori" Association="Self.FK_Yemek_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Yemek" EntitySet="Yemek" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
